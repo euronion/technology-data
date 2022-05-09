@@ -44,6 +44,7 @@ Features in more detail:
 **Bugfixes**:
 
 * adjust battery inverter lifetime to DEA footnote
+* Fix (increase) CH4 evaporation (LNG regasification cost); wrong unit caused miscaluclation, see `#54 <https://github.com/PyPSA/technology-data/issues/54>`_.
 * unit consistency, typos
 
 Technology-Data 0.2.0 (11th December 2020)
